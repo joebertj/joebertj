@@ -16,11 +16,13 @@ I'm always exploring new tools and techniques to improve system reliability and 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
-**DevOps & Infrastructure:**
+**Operating Systems:**
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![RHEL](https://img.shields.io/badge/-RHEL-EE0000?style=flat&logo=red-hat&logoColor=white)
 ![WSL](https://img.shields.io/badge/-WSL-0078D4?style=flat&logo=windows&logoColor=white)
+
+**DevOps & Infrastructure:**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
