@@ -1,15 +1,10 @@
-# Hi 👋, I'm Joe
+# Hi 👋, I'm Jubernetes
 
 ### A DevOps and Infrastructure Engineer 🚀  
 Passionate about automation, security, and scalable systems
 
 I'm always exploring new tools and techniques to improve system reliability and security.
 
-### Let's Connect!
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/joebertj)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/joebertj/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/joebertj)
 
 ### 💻 Technologies and Tools:
 
