@@ -18,6 +18,7 @@ I'm always exploring new tools and techniques to improve system reliability and 
 
 **Operating Systems:**
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Alpine](https://img.shields.io/badge/-Alpine-0D597F?style=flat&logo=alpine-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![RHEL](https://img.shields.io/badge/-RHEL-EE0000?style=flat&logo=red-hat&logoColor=white)
 ![WSL](https://img.shields.io/badge/-WSL-0078D4?style=flat&logo=windows&logoColor=white)
