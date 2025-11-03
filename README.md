@@ -52,10 +52,10 @@ I'm always exploring new tools and techniques to improve system reliability and 
 ## ⭐ Pinned Repositories
 
 ### 🌟 Featured Projects
-- **[open-data-visualization](https://github.com/joebertj/open-data-visualization)** - Interactive data visualization platforms
+- **[open-data-visualization](https://github.com/bettergovph/open-data-visualization)** - Interactive data visualization platforms for government transparency
 - **[awesh](https://github.com/joebertj/awesh)** - Shell scripting framework and automation tools
-- **[hak5](https://github.com/joebertj/hak5)** - Security tools and penetration testing utilities
-- **[jenkins-x](https://github.com/joebertj/jenkins-x)** - CI/CD pipelines and automation with Jenkins X
+- **[hak5/nano-tetra-modules](https://github.com/hak5/nano-tetra-modules)** - WiFi Pineapple module repository for NANO & TETRA security testing devices
+- **[jenkins-x/terraform-aws-eks-jx](https://github.com/jenkins-x/terraform-aws-eks-jx)** - Terraform module for deploying Jenkins X on AWS EKS
 
 ## 🎯 Other Projects
 
