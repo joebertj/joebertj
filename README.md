@@ -80,9 +80,12 @@ I'm always exploring new tools and techniques to improve system reliability and 
 ![OpenWrt](https://img.shields.io/badge/-OpenWrt-00B5E2?style=flat&logo=openwrt&logoColor=white)
 ![AiROS](https://img.shields.io/badge/-AiROS-1F4788?style=flat&logo=ubiquiti&logoColor=white)
 
-**Version Control & Tools:**
+**AI:**
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor-ai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat&logo=github-copilot&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-FF6B35?style=flat&logo=ollama&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/-Stable_Diffusion-000000?style=flat&logo=stability-ai&logoColor=white)
+![Open WebUI](https://img.shields.io/badge/-Open_WebUI-00B5E2?style=flat&logo=open-webui&logoColor=white)
 
 ## ⭐ Pinned Repositories
 
