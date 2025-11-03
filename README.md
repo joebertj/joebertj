@@ -36,9 +36,10 @@ I'm always exploring new tools and techniques to improve system reliability and 
 **CI/CD & GitOps:**
 ![Jenkins X](https://img.shields.io/badge/-Jenkins_X-00B5E2?style=flat&logo=jenkins-x&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Bamboo](https://img.shields.io/badge/-Bamboo-0052CC?style=flat&logo=bamboo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Tekton](https://img.shields.io/badge/-Tekton-FF6D00?style=flat&logo=tekton&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FCA121?style=flat&logo=gitlab&logoColor=white)
 
 **Cloud Platforms:**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -79,8 +80,6 @@ I'm always exploring new tools and techniques to improve system reliability and 
 ![AiROS](https://img.shields.io/badge/-AiROS-1F4788?style=flat&logo=ubiquiti&logoColor=white)
 
 **Version Control & Tools:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor-ai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat&logo=github-copilot&logoColor=white)
 
