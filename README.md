@@ -18,6 +18,9 @@ I'm always exploring new tools and techniques to improve system reliability and 
 
 **DevOps & Infrastructure:**
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![RHEL](https://img.shields.io/badge/-RHEL-EE0000?style=flat&logo=red-hat&logoColor=white)
+![WSL](https://img.shields.io/badge/-WSL-0078D4?style=flat&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
@@ -60,6 +63,8 @@ I'm always exploring new tools and techniques to improve system reliability and 
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Omada](https://img.shields.io/badge/-Omada-1F4788?style=flat&logo=tp-link&logoColor=white)
+![OpenWrt](https://img.shields.io/badge/-OpenWrt-00B5E2?style=flat&logo=openwrt&logoColor=white)
+![AiROS](https://img.shields.io/badge/-AiROS-1F4788?style=flat&logo=ubiquiti&logoColor=white)
 
 **Version Control & Tools:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
