@@ -58,6 +58,7 @@ I'm always exploring new tools and techniques to improve system reliability and 
 ![Snyk](https://img.shields.io/badge/-Snyk-4C4A73?style=flat&logo=snyk&logoColor=white)
 ![Fail2ban](https://img.shields.io/badge/-Fail2ban-000000?style=flat&logo=linux&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
 **Service Mesh & Messaging:**
 ![Istio](https://img.shields.io/badge/-Istio-466BB0?style=flat&logo=istio&logoColor=white)
@@ -75,7 +76,6 @@ I'm always exploring new tools and techniques to improve system reliability and 
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Omada](https://img.shields.io/badge/-Omada-1F4788?style=flat&logo=tp-link&logoColor=white)
 ![OpenWrt](https://img.shields.io/badge/-OpenWrt-00B5E2?style=flat&logo=openwrt&logoColor=white)
 ![AiROS](https://img.shields.io/badge/-AiROS-1F4788?style=flat&logo=ubiquiti&logoColor=white)
