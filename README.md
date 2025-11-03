@@ -33,6 +33,7 @@ I'm always exploring new tools and techniques to improve system reliability and 
 ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat&logo=red-hat-open-shift&logoColor=white)
 
 **CI/CD & GitOps:**
+![Jenkins X](https://img.shields.io/badge/-Jenkins_X-00B5E2?style=flat&logo=jenkins&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Tekton](https://img.shields.io/badge/-Tekton-FF6D00?style=flat&logo=tekton&logoColor=white)
