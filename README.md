@@ -22,6 +22,7 @@ I'm always exploring new tools and techniques to improve system reliability and 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Nomad](https://img.shields.io/badge/-Nomad-00CA8E?style=flat&logo=hashicorp&logoColor=white)
 ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat&logo=red-hat-open-shift&logoColor=white)
