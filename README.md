@@ -49,23 +49,23 @@ I'm always exploring new tools and techniques to improve system reliability and 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 🎯 Featured Projects
+## ⭐ Pinned Repositories
+
+### 🌟 Featured Projects
+- **[open-data-visualization](https://github.com/joebertj/open-data-visualization)** - Interactive data visualization platforms
+- **[awesh](https://github.com/joebertj/awesh)** - Shell scripting framework and automation tools
+- **[hak5](https://github.com/joebertj/hak5)** - Security tools and penetration testing utilities
+- **[jenkins-x](https://github.com/joebertj/jenkins-x)** - CI/CD pipelines and automation with Jenkins X
+
+## 🎯 Other Projects
 
 ### 🔐 Security & Infrastructure
 - **[fail2ban-nginx](https://github.com/joebertj/fail2ban-nginx)** - Comprehensive fail2ban configurations for nginx anti-abuse and DDoS protection
 - **[open-monitoring](https://github.com/joebertj/open-monitoring)** - Open-source monitoring solutions and dashboards
 - **[omada](https://github.com/joebertj/omada)** - Network management and automation tools
 
-### 📊 Data & Visualization
-- **[open-data-visualization](https://github.com/joebertj/open-data-visualization)** - Interactive data visualization platforms
-- **[open-budget-data](https://github.com/joebertj/open-budget-data)** - Budget transparency and analysis tools
-- **[ph-elections2025](https://github.com/joebertj/ph-elections2025)** - Election data and analysis platform
-
 ### 🏛️ Government & Civic Tech
 - **[bettergov](https://github.com/joebertj/bettergov)** - Government transparency initiatives
-- **[dpwh-contracts-dashboard](https://github.com/joebertj/dpwh-contracts-dashboard)** - Public works contracts dashboard
-- **[geoph](https://github.com/joebertj/geoph)** - Geographic and mapping tools for the Philippines
-- **[floodtrack](https://github.com/joebertj/floodtrack)** - Flood monitoring and tracking system
 
 ## 🚀 About Me
 
