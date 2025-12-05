@@ -5,23 +5,22 @@ Passionate about automation, security, and scalable systems
 
 I'm always exploring new tools and techniques to improve system reliability and security.
 
+My current AI average usage is 2 Billion tokes per months
 
 ### 💻 Technologies and Tools:
 
-**AI:**
-
-**Coding/Writing:**
+**AI-assisted Coding and Writing:**
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor-ai&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/-Antigravity-6C63FF?style=flat&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/-OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat&logo=github-copilot&logoColor=white)
 
-**Tools/API:**
+**AI Tools and API:**
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat&logo=openai&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/-Perplexity-1C1C1C?style=flat&logo=perplexity&logoColor=white)
 ![Sonar](https://img.shields.io/badge/-Sonar-FF6F00?style=flat&logo=sonarsource&logoColor=white)
 
-**Local LLM/Apps:**
+**Local LLM and Apps:**
 ![Ollama](https://img.shields.io/badge/-Ollama-FF6B35?style=flat&logo=ollama&logoColor=white)
 ![GPT-OSS](https://img.shields.io/badge/-GPT--OSS-0A0A0A?style=flat&logoColor=white)
 ![Open WebUI](https://img.shields.io/badge/-Open_WebUI-00B5E2?style=flat&logo=open-webui&logoColor=white)
