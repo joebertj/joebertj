@@ -8,6 +8,25 @@ I'm always exploring new tools and techniques to improve system reliability and 
 
 ### 💻 Technologies and Tools:
 
+**AI:**
+
+**Coding/Writing:**
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor-ai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/-Antigravity-6C63FF?style=flat&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/-OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat&logo=github-copilot&logoColor=white)
+
+**Tools/API:**
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat&logo=openai&logoColor=white)
+![Perplexity](https://img.shields.io/badge/-Perplexity-1C1C1C?style=flat&logo=perplexity&logoColor=white)
+![Sonar](https://img.shields.io/badge/-Sonar-FF6F00?style=flat&logo=sonarsource&logoColor=white)
+
+**Local LLM/Apps:**
+![Ollama](https://img.shields.io/badge/-Ollama-FF6B35?style=flat&logo=ollama&logoColor=white)
+![GPT-OSS](https://img.shields.io/badge/-GPT--OSS-0A0A0A?style=flat&logoColor=white)
+![Open WebUI](https://img.shields.io/badge/-Open_WebUI-00B5E2?style=flat&logo=open-webui&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/-Stable_Diffusion-000000?style=flat&logo=stability-ai&logoColor=white)
+
 **Languages & Frameworks:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -80,13 +99,6 @@ I'm always exploring new tools and techniques to improve system reliability and 
 ![OpenWrt](https://img.shields.io/badge/-OpenWrt-00B5E2?style=flat&logo=openwrt&logoColor=white)
 ![AiROS](https://img.shields.io/badge/-AiROS-1F4788?style=flat&logo=ubiquiti&logoColor=white)
 
-**AI:**
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor-ai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat&logo=github-copilot&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-FF6B35?style=flat&logo=ollama&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/-Stable_Diffusion-000000?style=flat&logo=stability-ai&logoColor=white)
-![Open WebUI](https://img.shields.io/badge/-Open_WebUI-00B5E2?style=flat&logo=open-webui&logoColor=white)
-
 ## ⭐ Pinned Repositories
 
 ### 🌟 Featured Projects
@@ -135,4 +147,3 @@ Let's collaborate and build something awesome together. Happy coding! 🌟
 ---
 
 *Last Updated: 2025-11-03*
-
