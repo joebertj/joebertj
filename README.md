@@ -5,7 +5,7 @@ Passionate about automation, security, and scalable systems
 
 I'm always exploring new tools and techniques to improve system reliability and security.
 
-My current AI average usage is 2 Billion tokes per months
+My current AI average usage is 2 Billion tokens per month
 
 ### 💻 Technologies and Tools:
 
